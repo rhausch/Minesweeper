@@ -1,0 +1,24 @@
+body {
+  background: rgb(50,150,200);
+}
+
+table {
+  border-spacing: 0;
+  border: solid black;
+}
+
+.cell {
+  width: 20px;
+  height: 20px;
+  border: thin solid black;
+  text-align: center;
+  background: white;
+}
+
+.flagged {
+  background: red;
+}
+
+.empty {
+  background: darkgray;
+}
